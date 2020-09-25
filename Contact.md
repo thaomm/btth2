@@ -5,8 +5,6 @@ permalink: /contact/
 ---
 
 # My contact:
-
-- Name: Mẫn Minh Thảo
-- Student ID: 16020282
+- Phone: 0336821559
 - Email: 16020282@vnu.edu.vn
 - Github: https://github.com/thaomm
