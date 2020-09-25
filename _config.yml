@@ -22,8 +22,8 @@ title: Bài tập thực hành tuần 2
 email: 16020282@vnu.edu.vn
 description: >- # this means to ignore newlines until "baseurl:"
   Bài tập thực hành web tuần 2 - Lớp INT3306 20
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/btth2" # the subpath of your site, e.g. /blog
+url: "https://thaomm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: bong0609
 github_username:  thaomm
 
